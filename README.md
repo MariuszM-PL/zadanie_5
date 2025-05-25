@@ -31,4 +31,4 @@
 
 ## Opis
 
-Projekty pobierają listę premier filmowych ze strony Filmweb, wypisując tytuł, gatunek i rok produkcji.
+Projekty pobierają listę premier filmowych i serialowych ze strony Filmweb, wypisując tytuł, gatunek i rok produkcji.
