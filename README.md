@@ -1,5 +1,8 @@
-# Web Scraping Filmweb - Projekty
+# Poszukiwanie bibliotek o określonej funkcjonalności
 
+## Web Scraping
+- ` Biblioteka: requests + BeautifulSoup `
+- ` Biblioteka: Scrapy `
 ## Pliki
 
 - `filmweb_premiere_requests.py` - prosty scraper wykorzystujący requests i BeautifulSoup do pobrania tytułów, gatunków i roku produkcji filmów.
